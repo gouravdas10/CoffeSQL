@@ -24,7 +24,7 @@ Calculates month-over-month (MoM) growth for sales between April and May.
 Counts the total number of transactions (orders) for May.
 # 5. Daily Sales Comparison
 Compares daily sales in May to the average sales for the month. Classifies days as "Above Average", "Below Average", or "Average".
-# . Sales by Location
+# 6 Sales by Location
 Displays total sales grouped by store location for May, ordered by highest sales.
 # 7. Sales by Product Category
 Calculates total sales grouped by product_category for May.
